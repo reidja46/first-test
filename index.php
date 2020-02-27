@@ -1,5 +1,7 @@
 <?php
-$product = 'coche';
-$product = 'avión';
-phpinfo();
+/**
+ * MSA - Created
+ * Script with testing code
+ */
+    phpinfo();
 ?>
